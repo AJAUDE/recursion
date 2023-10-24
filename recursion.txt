@@ -1,0 +1,8 @@
+RECURSION CHECKPOINT
+
+Step 1 :Create a variable to store the palindrome word.
+Step 2 :Go through each of the characters in the palindrome word.
+Step 3 :compare the first character to the last character. 
+Step 4 :If the first character equals the last character repeat Step.
+Step 5 :If all the first and the last characters are thesame.   
+step 6 :Return the palindrome.
